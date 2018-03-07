@@ -1,4 +1,4 @@
-# House-Flooding-Early-Detection
+# House Flooding Early Detection
 House Flooding Early Detection
 
 The objective of this project is to inform the person about the occurrence of flooding immediately in order to take appropriate action quickly.
